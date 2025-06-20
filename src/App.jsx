@@ -29,7 +29,7 @@ export default function Home() {
             <div className="grid h-1/2 w-full gap-1">
               <MainCarousel />
             </div>
-            <h3>Hello welome to the master chef.</h3>
+            <h3>Hello welome to the master of india chef.</h3>
           </div>
         </section>
         <section>
